@@ -22,3 +22,4 @@
 |    | # | Title                                            | Max Score |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:---------:|:----------------:|:-----------|
 | ✅ | 1 | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2000%20Hello,%20World.swift) | 💚 Easy |
+| ✅ | 2 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2001%20Data%20Types.swift) | 💚 Easy |

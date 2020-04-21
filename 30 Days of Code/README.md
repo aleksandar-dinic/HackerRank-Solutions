@@ -24,4 +24,4 @@
 | ✅ | 2 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2001%20Data%20Types.swift) | 💚 Easy |
 | ✅ | 3 | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2002%20Operators.swift) | 💚 Easy |
 | ✅ | 4 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2003%20Intro%20to%20Conditional%20Statements.swift) | 💚 Easy |
-
+| ✅ | 5 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2004%20Class%20vs.%20Instance.swift) | 💚 Easy |

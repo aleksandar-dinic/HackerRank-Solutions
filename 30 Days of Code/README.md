@@ -30,4 +30,4 @@
 | ✅ | 8 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2007%20Arrays.swift) | 💚 Easy |
 | ✅ | 9 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2008%20Dictionaries%20and%20Maps.swift) | 💚 Easy |
 | ✅ | 10 | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2009%20Recursion%203.swift) | 💚 Easy |
-
+| ✅ | 11 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2010%20Binary%20Numbers.swift) | 💚 Easy |

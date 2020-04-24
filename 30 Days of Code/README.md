@@ -38,4 +38,4 @@
 | ✅ | 16 | [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2015%20Linked%20List.swift) | 💚 Easy |
 | ✅ | 17 | [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2016%20Exceptions%20-%20String%20to%20Integer.swift) | 💚 Easy |
 | ✅ | 18 | [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2017%20More%20Exceptions.swift) | 💚 Easy |
-
+| ✅ | 19 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2018%20Queues%20and%20Stacks.swift) | 💚 Easy |

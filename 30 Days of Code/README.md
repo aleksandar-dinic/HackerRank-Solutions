@@ -47,4 +47,4 @@
 | ✅ | 25 | [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2024%20More%20Linked%20Lists.swift) | 💚 Easy |
 | ✅ | 26 | [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2025%20Running%20Time%20and%20Complexity.swift) | 💛 Medium |
 | ✅ | 27 | [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | 30 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2026%20Nested%20Logic.swift) | 💚 Easy |
-
+| ✅ | 28 | [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing/problem) | 30 | [Solution.java](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/Solutions/Day%2027%20Testing.java) | 💚 Easy |

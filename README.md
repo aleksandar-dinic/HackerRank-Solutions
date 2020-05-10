@@ -11,10 +11,27 @@
 </br>
 
 <p align="center">
+    <a href="https://github.com/AleksandarDinic/HackerRank-Solutions/tree/master/Problem%20Solving">
+        <img height="150" width="150" src="Assets/ProblemSolving.svg">
+    </a>
     <a href="https://github.com/AleksandarDinic/HackerRank-Solutions/tree/master/30%20Days%20of%20Code">
         <img height="150" width="150" src="Assets/30DaysOfCode.svg">
     </a>
 </p>
+
+</br>
+
+## Problem Solving
+
+</br>
+
+### Algorithms
+|    | # | Subdomain | Title                                            | Max Score |     Solution     | Difficulty |
+|:--:|:-:|:---------:|:-------------------------------------------------|:---------:|:----------------:|:-----------|
+
+### Data Structures
+|    | # | Subdomain | Title                                            | Max Score |     Solution     | Difficulty |
+|:--:|:-:|:---------:|:-------------------------------------------------|:---------:|:----------------:|:-----------|
 
 </br>
 

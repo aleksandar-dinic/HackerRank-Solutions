@@ -33,6 +33,7 @@
 ### Data Structures
 |    | # | Subdomain | Title                                            | Max Score |     Solution     | Difficulty |
 |:--:|:-:|:---------:|:-------------------------------------------------|:---------:|:----------------:|:-----------|
+| ✅ | 1 | [Arrays](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays) | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Data%20Structures/01%20Arrays/01%20Arrays%20-%20DS.swift) | 💚 Easy |
 
 </br>
 

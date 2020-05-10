@@ -28,6 +28,7 @@
 ### Algorithms
 |    | # | Subdomain | Title                                            | Max Score |     Solution     | Difficulty |
 |:--:|:-:|:---------:|:-------------------------------------------------|:---------:|:----------------:|:-----------|
+| ✅ | 1 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | 1 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Algorithms/01%20Warmup/01%20Solve%20Me%20First.swift) | 💚 Easy |
 
 ### Data Structures
 |    | # | Subdomain | Title                                            | Max Score |     Solution     | Difficulty |

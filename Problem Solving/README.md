@@ -32,6 +32,7 @@
 | ✅ | 5 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Algorithms/01%20Warmup/05%20Diagonal%20Difference.swift) | 💚 Easy |
 | ✅ | 6 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Algorithms/01%20Warmup/06%20Plus%20Minus.swift) | 💚 Easy |
 | ✅ | 7 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Algorithms/01%20Warmup/07%20Staircase.swift) | 💚 Easy |
+| ✅ | 8 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Algorithms/01%20Warmup/08%20Mini-Max%20Sum.swift) | 💚 Easy |
 
 ### Data Structures
 |    | # | Subdomain | Title                                            | Max Score |     Solution     | Difficulty |

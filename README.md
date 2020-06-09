@@ -38,6 +38,8 @@
 | ✅ | 8 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Algorithms/01%20Warmup/08%20Mini-Max%20Sum.swift) | 💚 Easy |
 | ✅ | 9 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Algorithms/01%20Warmup/09%20Birthday%20Cake%20Candles.swift) | 💚 Easy |
 | ✅ | 10 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Algorithms/01%20Warmup/10%20Time%20Conversion.swift) | 💚 Easy |
+||
+| ✅ | 1 | [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation) | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Algorithms/02%20Implementation/01%20Grading%20Students.swift) | 💚 Easy |
 
 ### Data Structures
 |    | # | Subdomain | Title                                            | Max Score |     Solution     | Difficulty |

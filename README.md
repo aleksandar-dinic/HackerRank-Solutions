@@ -50,6 +50,8 @@
 | ✅ | 4 | [Arrays](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays) | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | 20 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Data%20Structures/01%20Arrays/04%20Left%20Rotation.swift) | 💚 Easy |
 | ✅ | 5 | [Arrays](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays) | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | 25 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Data%20Structures/01%20Arrays/05%20Sparse%20Arrays.swift) | 💛 Medium |
 | ✅ | 6 | [Arrays](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays) | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | 60 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Data%20Structures/01%20Arrays/06%20Array%20Manipulation.swift) | ❤️ Hard |
+||
+| ✅ | 1 | [Linked Lists](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | 5 | [Solution.java](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/master/Problem%20Solving/Data%20Structures/02%20Linked%20Lists/01%20Print%20the%20Elements%20of%20a%20Linked%20List.java) | 💚 Easy |
 
 
 </br>

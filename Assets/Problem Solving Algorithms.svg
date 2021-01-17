@@ -25,7 +25,8 @@
 			</g>
 		</svg>
 	</g>
-	<text class="badge-title" x="50%" y="65.5" text-anchor="middle" font-size="10">Problem Solving</text>
+	<text class="badge-title" x="50%" y="56" text-anchor="middle" font-size="10">Problem Solving</text>
+	<text class="badge-title" x="50%" y="67" text-anchor="middle" font-size="10">Algorithms</text>
 	<g class="star-section" transform="translate(-26, 0)">
 		<svg x="50%" y="71" height="10">
 			<svg class="badge-star" viewBox="0 0 6.54904 6.25825" width="7" x="0">

@@ -1,10 +1,9 @@
 <p align="center">
     <a href="https://www.hackerrank.com/ADinic">
-        <img height=60 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" alt="HackerRank logo">
+        <img height=60 src="../Assets/HackerRank.svg" alt="HackerRank logo">
     </a>
-    </br></br>
     <a href="https://swift.org">
-       <img height="35" src="../Assets/Swift.svg" alt="Swift logo">
+       <img height="60" src="../Assets/Swift.svg" alt="Swift logo">
     </a>
 </p>
 

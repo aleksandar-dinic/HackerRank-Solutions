@@ -48,6 +48,7 @@
 | 4 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/04%20Between%20Two%20Sets.swift) | 💚 Easy |
 | 5 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/05%20Breaking%20the%20Records.swift) | 💚 Easy |
 | 6 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/06%20Subarray%20Division.swift) | 💚 Easy |
+| 7 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/07%20Divisible%20Sum%20Pairs.swift) | 💚 Easy |
 
 </br>
 

@@ -50,6 +50,7 @@
 | 6 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/06%20Subarray%20Division.swift) | 💚 Easy |
 | 7 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/07%20Divisible%20Sum%20Pairs.swift) | 💚 Easy |
 | 8 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/08%20Migratory%20Birds.swift) | 💚 Easy |
+| 9 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | 15 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/09%20Day%20of%20the%20Programmer.swift) | 💚 Easy |
 
 </br>
 

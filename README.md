@@ -55,6 +55,7 @@
 | 11 | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/11%20Sales%20by%20Match.swift) | 💚 Easy |
 | 12 | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | 10 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/12%20Drawing%20Book.swift) | 💚 Easy |
 | 13 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | 15 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/13%20Counting%20Valleys.swift) | 💚 Easy |
+| 14 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | 15 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/14%20Electronics%20Shop.swift) | 💚 Easy |
 
 </br>
 

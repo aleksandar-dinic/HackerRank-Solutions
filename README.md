@@ -60,6 +60,7 @@
 | 16 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | 20 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/16%20Forming%20a%20Magic%20Square.swift) | 💛 Medium |
 | 17 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | 20 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/17%20Picking%20Numbers.swift) | 💚 Easy |
 | 18 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | 20 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/18%20Climbing%20the%20Leaderboard.swift) | 💛 Medium |
+| 19 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | 15 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/19%20The%20Hurdle%20Race.swift) | 💚 Easy |
 
 </br>
 

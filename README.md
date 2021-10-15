@@ -62,6 +62,7 @@
 | 18 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | 20 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/18%20Climbing%20the%20Leaderboard.swift) | 💛 Medium |
 | 19 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | 15 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/19%20The%20Hurdle%20Race.swift) | 💚 Easy |
 | 20 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | 20 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/20%20Designer%20PDF%20Viewer.swift) | 💚 Easy |
+| 21 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | 20 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/21%20Utopian%20Tree.swift) | 💚 Easy |
 
 </br>
 

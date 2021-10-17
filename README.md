@@ -64,6 +64,7 @@
 | 20 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | 20 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/20%20Designer%20PDF%20Viewer.swift) | 💚 Easy |
 | 21 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | 20 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/21%20Utopian%20Tree.swift) | 💚 Easy |
 | 22 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | 20 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/22%20Angry%20Professor.swift) | 💚 Easy |
+| 23 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | 15 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/02%20Implementation/23%20Beautiful%20Days%20at%20the%20Movies.swift) | 💚 Easy |
 
 </br>
 

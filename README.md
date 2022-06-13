@@ -23,6 +23,10 @@
 
 </br>
 
+<a href="https://www.buymeacoffee.com/ADinic" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
 ## Problem Solving - Algorithms
 
 ###### Subdomain: [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup)
